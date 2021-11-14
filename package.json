@@ -1,5 +1,5 @@
 {
-  "name": "xjw-choujiang",
+  "name": "xjw-ts",
   "version": "1.0.0",
   "scripts": {
     "start": "umi dev",
